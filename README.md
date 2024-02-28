@@ -7,6 +7,7 @@ Extract Text: The uploaded image is processed to extract text using the Tesserac
 Display Result: The extracted text is displayed to the user.
 
 Installation
+
 1.Clone the repository:
   git clone <repository-url>
 
